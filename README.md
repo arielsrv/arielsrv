@@ -2,10 +2,13 @@
   <a href="https://github.com/arielsrv">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielsrv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=7&theme=radical"/>
+ </a>
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <!--START_SECTION:waka-->
@@ -13,19 +16,19 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 1,009 Contributions in the Year 2022
- > 
-> 📦 169.1 kB Used in GitHub's Storage 
- > 
+>
+> 📦 169.1 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 51 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 51 Public Repositories
+>
+> 🔑 5 Private Repositories
+>
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning    351 commits    ████████████░░░░░░░░░░░░░   48.61% 
@@ -34,7 +37,8 @@
 🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
 Monday       152 commits    █████░░░░░░░░░░░░░░░░░░░░   21.05% 
@@ -47,8 +51,7 @@ Sunday       131 commits    ████░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
@@ -67,7 +70,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in C#** 
+**I Mostly Code in C#**
 
 ```text
 C#                       13 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -78,11 +81,9 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/arielsrv/arielsrv/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/arielsrv/arielsrv/main/charts/bar_graph.png)
 
-
- Last Updated on 09/11/2022 18:49:20 UTC
+Last Updated on 09/11/2022 18:49:20 UTC
 <!--END_SECTION:waka-->
