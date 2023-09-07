@@ -1,11 +1,5 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arielsrv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-  <a href="https://github.com/arielsrv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielsrv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=radical"/>
- </a>
-</div>
 
 <div>
   <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank">
