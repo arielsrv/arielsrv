@@ -1,6 +1,6 @@
 <div>
-  <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank" rel="nofollow noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Developer, Technical Leadership" title="Ariel Piñeiro">
   </a>
 </div>
 
@@ -13,19 +13,19 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 158.0 kB Used in GitHub's Storage 
- > 
+> 📦 158.0 kB Used in GitHub's Storage
+>
 > 🏆 773 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 81 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 81 Public Repositories
+>
+> 🔑 7 Private Repositories
+>
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                2755 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
@@ -33,7 +33,8 @@
 🌃 Evening                1136 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 🌙 Night                  260 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
 Monday                   1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
@@ -45,8 +46,7 @@ Saturday                 915 commits         ███░░░░░░░░�
 Sunday                   1199 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -59,7 +59,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
 Go                       21 repos            █████████░░░░░░░░░░░░░░░░   36.21 % 
@@ -69,12 +69,9 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
-
- Last Updated on 07/09/2023 08:31:25 UTC
+Last Updated on 07/09/2023 08:31:25 UTC
 <!--END_SECTION:waka-->
