@@ -9,15 +9,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 164.4 kB Used in GitHub's Storage 
- > 
-> 🏆 371 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -76,5 +74,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 18:45:09 UTC
+ Last Updated on 14/10/2024 18:47:55 UTC
 <!--END_SECTION:waka-->
