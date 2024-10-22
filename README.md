@@ -9,8 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
@@ -50,18 +48,18 @@ Sunday                   2708 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 28 mins        █████████████████████████   99.25 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C#                       1 hr 8 mins         █████████████████████████   99.04 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Jetbrainsrider           1 hr 29 mins        █████████████████████████   100.00 % 
+Jetbrainsrider           1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-netcore                  23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-genericos                21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-ConsoleApp11             20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-ejemplos                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-ikrut-api-v2             7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+netcore                  23 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
+genericos                21 mins             ████████░░░░░░░░░░░░░░░░░   30.84 % 
+ejemplos                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+ikrut-api-v2             7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+ejemplo_net              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,5 +79,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:48:42 UTC
+ Last Updated on 22/10/2024 18:48:07 UTC
 <!--END_SECTION:waka-->
