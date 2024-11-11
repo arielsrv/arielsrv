@@ -9,11 +9,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 164.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 388 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,13 +50,18 @@ Sunday                   2662 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       6 mins              ██████████████████████░░░   88.79 % 
+Docker                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Solution File            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Jetbrainsrider           7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WebApplication18         6 mins              █████████████████████████   99.97 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Go** 
@@ -72,5 +81,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:44:29 UTC
+ Last Updated on 11/11/2024 18:49:31 UTC
 <!--END_SECTION:waka-->
