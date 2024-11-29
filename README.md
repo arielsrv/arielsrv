@@ -17,7 +17,7 @@
 
 > 📦 165.2 kB Used in GitHub's Storage 
  > 
-> 🏆 389 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -50,18 +50,13 @@ Sunday                   3616 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       8 mins              ████████████████████████░   95.76 % 
-Config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-EditorConfig             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ikrut-api-v2             8 mins              ████████████████████████░   97.43 % 
-iKrut.WebApi             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -81,5 +76,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2024 18:50:48 UTC
+ Last Updated on 29/11/2024 18:49:54 UTC
 <!--END_SECTION:waka-->
