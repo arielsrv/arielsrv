@@ -11,15 +11,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.2 kB Used in GitHub's Storage 
  > 
+> 🏆 391 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 103 Public Repositories 
+> 📜 105 Public Repositories 
  > 
 > 🔑 29 Private Repositories 
  > 
@@ -74,5 +76,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2024 18:51:33 UTC
+ Last Updated on 06/12/2024 18:53:01 UTC
 <!--END_SECTION:waka-->
