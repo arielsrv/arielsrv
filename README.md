@@ -9,15 +9,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.2 kB Used in GitHub's Storage 
- > 
-> 🏆 391 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -50,18 +48,20 @@ Sunday                   3616 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 min               ████████████████████░░░░░   79.52 % 
-JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C#                       1 min               ████████████████████░░░░░   79.83 % 
+JavaScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+EditorConfig             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Jetbrainsrider           1 min               ████████████████████░░░░░   79.52 % 
-WebStorm                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Jetbrainsrider           2 mins              █████████████████████░░░░   82.58 % 
+WebStorm                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 
 🐱‍💻 Projects: 
-ikrut-api-v2             1 min               ████████████████████░░░░░   79.49 % 
-untitled8                0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-iKrut.WebApi             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+ikrut-api-v2             2 mins              █████████████████████░░░░   82.33 % 
+untitled8                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+iKrut.WebApi             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,5 +81,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 18:53:40 UTC
+ Last Updated on 10/12/2024 18:53:07 UTC
 <!--END_SECTION:waka-->
