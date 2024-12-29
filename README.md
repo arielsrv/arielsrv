@@ -17,6 +17,8 @@
 
 > 📦 165.4 kB Used in GitHub's Storage 
  > 
+> 🏆 420 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 105 Public Repositories 
@@ -48,13 +50,19 @@ Sunday                   3662 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              █████████░░░░░░░░░░░░░░░░   36.66 % 
+CSS                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+TypeScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Project Details          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+untitled3                1 min               ███████████████████░░░░░░   75.58 % 
+untitled4                0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 **I Mostly Code in Go** 
@@ -74,5 +82,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:46:19 UTC
+ Last Updated on 29/12/2024 18:45:52 UTC
 <!--END_SECTION:waka-->
