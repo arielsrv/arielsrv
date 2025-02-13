@@ -17,8 +17,6 @@
 
 > 📦 165.9 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 105 Public Repositories 
@@ -50,13 +48,16 @@ Sunday                   3470 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               7 mins              █████████████████░░░░░░░░   69.55 % 
+Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pwa-kit                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -76,5 +77,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2025 18:49:18 UTC
+ Last Updated on 13/02/2025 18:49:05 UTC
 <!--END_SECTION:waka-->
