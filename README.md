@@ -9,13 +9,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,17 +50,17 @@ Sunday                   3606 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       20 mins             ██████████████████░░░░░░░   73.32 % 
-YAML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-go.mod                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Go                       1 hr 20 mins        ███████████████████░░░░░░   74.52 % 
+YAML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+go.mod                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-GoLand                   28 mins             █████████████████████████   100.00 % 
+GoLand                   1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-orders-backend        28 mins             █████████████████████████   100.00 % 
+my-orders-backend        1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -78,5 +80,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:46:44 UTC
+ Last Updated on 02/03/2025 18:51:01 UTC
 <!--END_SECTION:waka-->
