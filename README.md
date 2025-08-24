@@ -9,9 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C380%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,8 +48,8 @@ Sunday                   2665 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 38 mins       ████████████████░░░░░░░░░   62.67 % 
-YAML                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Go                       7 hrs 38 mins       ████████████████░░░░░░░░░   62.68 % 
+YAML                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
 go.mod                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 Terraform                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
@@ -62,7 +62,7 @@ my-orders-backend        6 hrs 39 mins       ███████████�
 go-api                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 grafana-loki-on-k8s      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 go-restclient            1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-backend-api-sdk          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+backend-api-sdk          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 **I Mostly Code in Go** 
@@ -82,5 +82,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 18:50:02 UTC
+ Last Updated on 24/08/2025 18:50:37 UTC
 <!--END_SECTION:waka-->
