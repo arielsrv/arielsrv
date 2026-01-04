@@ -9,7 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2049%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -23,6 +25,44 @@
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8776 commits        ████████████░░░░░░░░░░░░░   46.16 % 
+🌆 Daytime                6934 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌃 Evening                2770 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌙 Night                  533 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3053 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  3147 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Wednesday                2523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 2919 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   2173 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Saturday                 2542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sunday                   2656 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Bash                     20 mins             █████████████░░░░░░░░░░░░   52.31 % 
+YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Shell Script             5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Go                       4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+go.mod                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+
+🔥 Editors: 
+GoLand                   39 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+contrib                  39 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -40,5 +80,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:55:21 UTC
+ Last Updated on 04/01/2026 18:56:27 UTC
 <!--END_SECTION:waka-->
