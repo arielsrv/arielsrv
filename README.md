@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -17,7 +17,7 @@
 
 > 📦 255.5 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2026
+> 🏆 90 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,9 +50,9 @@ Sunday                   2783 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       29 mins             ███████████████████░░░░░░   74.04 % 
-go.mod                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Go                       29 mins             ██████████████████░░░░░░░   73.98 % 
+go.mod                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
@@ -60,11 +60,11 @@ Docker                   0 secs              ░░░░░░░░░░░�
 GoLand                   39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-go-mq-pusher             12 mins             ████████░░░░░░░░░░░░░░░░░   32.04 % 
-awesomeProject9          7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-dynamolock               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-go-mq-producer           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-subscriptions-api        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+go-mq-pusher             12 mins             ████████░░░░░░░░░░░░░░░░░   31.99 % 
+awesomeProject9          7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+dynamolock               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+go-mq-producer           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+subscriptions-api        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 ```
 
 **I Mostly Code in Go** 
@@ -84,5 +84,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2026 19:00:23 UTC
+ Last Updated on 01/03/2026 19:03:39 UTC
 <!--END_SECTION:waka-->
