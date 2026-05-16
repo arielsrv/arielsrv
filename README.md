@@ -79,13 +79,15 @@
 ## ⏱ WakaTime Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 285.0 kB Used in GitHub's Storage 
  > 
-> 🏆 297 Contributions in the Year 2026
+> 🏆 303 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,6 +95,40 @@
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12518 commits       ███████████░░░░░░░░░░░░░░   45.22 % 
+🌆 Daytime                10880 commits       ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌃 Evening                3654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌙 Night                  632 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4829 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Tuesday                  4394 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Wednesday                3682 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Thursday                 3794 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Friday                   2898 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Saturday                 4238 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Sunday                   3849 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -110,5 +146,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 20:07:52 UTC
+ Last Updated on 16/05/2026 19:44:15 UTC
 <!--END_SECTION:waka-->
