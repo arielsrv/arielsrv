@@ -79,13 +79,15 @@
 ## ⏱ WakaTime Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.5 kB Used in GitHub's Storage 
+> 📦 279.4 kB Used in GitHub's Storage 
  > 
-> 🏆 321 Contributions in the Year 2026
+> 🏆 329 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,6 +95,40 @@
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10228 commits       ████████████░░░░░░░░░░░░░   46.91 % 
+🌆 Daytime                7975 commits        █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌃 Evening                3031 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+🌙 Night                  568 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3529 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Tuesday                  3533 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                2816 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Thursday                 3160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   2524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Saturday                 3191 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Sunday                   3049 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -110,5 +146,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:49:21 UTC
+ Last Updated on 29/05/2026 20:49:36 UTC
 <!--END_SECTION:waka-->
