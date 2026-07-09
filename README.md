@@ -152,9 +152,9 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 
 <div align="center">
 
-<a href="https://github.com/arielsrv?tab=repositories&q=&type=source&language=go&sort=stargazers" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielsrv&repo=arielsrv&theme=tokyonight&hide_border=true" alt="Featured repo" />
-</a>
+[![ikuiku](https://img.shields.io/badge/🔧_ikuiku-Go_CLI_scaffolding_tool-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/arielsrv/ikuiku)
+[![pets-api](https://img.shields.io/badge/🐾_pets--api-REST_API_in_Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/arielsrv/pets-api)
+[![golang-toolkit](https://img.shields.io/badge/🛠_golang--toolkit-Go_utilities_&_helpers-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/arielsrv/golang-toolkit)
 
 </div>
 
@@ -167,28 +167,10 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 <div align="center">
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=arielsrv&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=arielsrv&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arielsrv&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ariel's GitHub stats" />
-</picture>
-
-<picture>
   <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=arielsrv&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=arielsrv&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielsrv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=8&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielsrv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arielsrv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arielsrv&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 
