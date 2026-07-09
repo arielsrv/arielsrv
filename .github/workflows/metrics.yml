@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Requires a PAT with read:user and repo scopes stored as METRICS_TOKEN
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: arielsrv
           template: classic
           base: header, activity, community, repositories
