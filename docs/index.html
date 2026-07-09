@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ariel Piñeiro — Head of Engineering</title>
+  <meta name="description" content="Ariel Piñeiro — Head of Engineering with 20+ years in tech. Go expert, backend platforms, microservices, Kubernetes.">
+  <meta property="og:title" content="Ariel Piñeiro — Head of Engineering">
+  <meta property="og:description" content="20+ years building scalable backend platforms. Go expert based in Barcelona.">
+  <meta property="og:type" content="website">
+  <style>
+    :root {
+      --bg:      #1a1b27;
+      --bg2:     #16161e;
+      --bg3:     #1f2335;
+      --surface: #24283b;
+      --blue:    #7aa2f7;
+      --purple:  #bb9af7;
+      --cyan:    #7dcfff;
+      --green:   #9ece6a;
+      --orange:  #ff9e64;
+      --text:    #c0caf5;
+      --dim:     #565f89;
+      --border:  #292e42;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    /* ── Nav ── */
+    nav {
+      position: fixed;
+      inset: 0 0 auto 0;
+      z-index: 100;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2.5rem;
+      background: rgba(26, 27, 39, 0.82);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border);
+    }
+    .logo { font-weight: 800; font-size: 1.1rem; color: var(--blue); letter-spacing: .04em; }
+    nav ul { display: flex; gap: 2rem; list-style: none; }
+    nav a { color: var(--dim); text-decoration: none; font-size: .9rem; transition: color .2s; }
+    nav a:hover { color: var(--blue); }
+
+    /* ── Hero ── */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 7rem 2rem 5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 60% 50% at 50% 40%, rgba(122,162,247,.07) 0%, transparent 70%),
+        radial-gradient(ellipse 40% 30% at 80% 80%, rgba(187,154,247,.05) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .hero-inner { position: relative; max-width: 700px; }
+    .avatar {
+      width: 110px; height: 110px;
+      border-radius: 50%;
+      border: 3px solid var(--blue);
+      margin: 0 auto 1.5rem;
+      background: var(--surface);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3rem;
+      box-shadow: 0 0 0 6px rgba(122,162,247,.12), 0 20px 40px rgba(0,0,0,.4);
+      animation: pulse 3s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { box-shadow: 0 0 0 6px rgba(122,162,247,.12), 0 20px 40px rgba(0,0,0,.4); }
+      50%       { box-shadow: 0 0 0 12px rgba(122,162,247,.06), 0 20px 40px rgba(0,0,0,.4); }
+    }
+    h1 {
+      font-size: clamp(2.2rem, 6vw, 3.8rem);
+      font-weight: 900;
+      letter-spacing: -.02em;
+      background: linear-gradient(135deg, var(--blue) 0%, var(--purple) 60%, var(--cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: .4rem;
+    }
+    .subtitle { font-size: 1.2rem; color: var(--dim); margin-bottom: .6rem; }
+    .tagline { font-size: .95rem; color: var(--cyan); font-style: italic; margin-bottom: 2rem; }
+
+    .badge-row { display: flex; flex-wrap: wrap; gap: .45rem; justify-content: center; margin-bottom: 2rem; }
+    .badge {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: .28rem .85rem;
+      font-size: .78rem;
+    }
+    .badge.blue   { border-color: var(--blue);   color: var(--blue); }
+    .badge.purple { border-color: var(--purple);  color: var(--purple); }
+    .badge.green  { border-color: var(--green);   color: var(--green); }
+    .badge.orange { border-color: var(--orange);  color: var(--orange); }
+    .badge.cyan   { border-color: var(--cyan);    color: var(--cyan); }
+
+    .cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      padding: .7rem 1.6rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: .9rem;
+      font-weight: 600;
+      transition: transform .18s, box-shadow .18s, background .18s;
+      display: inline-flex;
+      align-items: center;
+      gap: .45rem;
+    }
+    .btn-primary { background: var(--blue); color: var(--bg); }
+    .btn-primary:hover { background: var(--purple); transform: translateY(-2px); box-shadow: 0 8px 22px rgba(122,162,247,.28); }
+    .btn-outline { background: transparent; color: var(--blue); border: 1.5px solid var(--blue); }
+    .btn-outline:hover { background: rgba(122,162,247,.1); transform: translateY(-2px); }
+
+    /* ── Sections ── */
+    .section { max-width: 1020px; margin: 0 auto; padding: 5rem 2rem; }
+    .alt { background: var(--bg3); }
+    .alt .section { }
+
+    h2 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--blue);
+      margin-bottom: .4rem;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+    h2::after { content: ''; flex: 1; height: 1px; background: var(--border); margin-left: 1rem; }
+    .sub { color: var(--dim); font-size: .9rem; margin-bottom: 2.5rem; }
+
+    /* ── About grid ── */
+    .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.4rem 1.6rem;
+      transition: border-color .2s, transform .2s;
+    }
+    .card:hover { border-color: var(--blue); transform: translateY(-3px); }
+    .card h3 { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; color: var(--purple); margin-bottom: .85rem; }
+    .card ul { list-style: none; }
+    .card li { padding: .28rem 0; font-size: .9rem; display: flex; gap: .5rem; }
+    .card li::before { content: '▸'; color: var(--blue); flex-shrink: 0; }
+
+    /* ── Stats ── */
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; }
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.5rem 1rem;
+      text-align: center;
+      transition: border-color .2s;
+    }
+    .stat:hover { border-color: var(--purple); }
+    .stat-n {
+      font-size: 2.2rem;
+      font-weight: 900;
+      background: linear-gradient(135deg, var(--blue), var(--purple));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .stat-l { font-size: .75rem; color: var(--dim); margin-top: .2rem; }
+
+    /* ── Skills ── */
+    .skills-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.2rem; }
+    .skill-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.2rem 1.5rem;
+      transition: border-color .2s, transform .2s;
+    }
+    .skill-card:hover { border-color: var(--cyan); transform: translateY(-3px); }
+    .skill-card h3 { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; color: var(--dim); margin-bottom: .7rem; }
+    .tags { display: flex; flex-wrap: wrap; gap: .35rem; }
+    .tag {
+      background: rgba(122,162,247,.08);
+      border: 1px solid rgba(122,162,247,.18);
+      border-radius: 6px;
+      padding: .18rem .55rem;
+      font-size: .78rem;
+      color: var(--text);
+    }
+
+    /* ── Timeline ── */
+    .timeline { position: relative; padding-left: 2.2rem; }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 0; top: .4rem; bottom: 0;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--blue), var(--purple), transparent);
+    }
+    .tl-item { position: relative; margin-bottom: 2.8rem; }
+    .tl-item::before {
+      content: '';
+      position: absolute;
+      left: -2.36rem; top: .38rem;
+      width: 12px; height: 12px;
+      background: var(--blue);
+      border-radius: 50%;
+      border: 2px solid var(--bg3);
+      box-shadow: 0 0 0 2px var(--blue);
+    }
+    .tl-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: .4rem; }
+    .tl-role { font-weight: 700; font-size: 1rem; color: var(--text); }
+    .tl-co { color: var(--blue); font-weight: 600; font-size: .9rem; }
+    .tl-period { font-size: .76rem; color: var(--dim); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: .2rem .6rem; white-space: nowrap; }
+    .tl-desc { color: var(--dim); font-size: .88rem; line-height: 1.65; }
+
+    /* ── Contact ── */
+    .contact-grid { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; }
+    .contact-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.2rem 2rem;
+      text-decoration: none;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      font-size: .92rem;
+      min-width: 180px;
+      transition: border-color .2s, color .2s, transform .2s, box-shadow .2s;
+    }
+    .contact-card:hover {
+      border-color: var(--blue);
+      color: var(--blue);
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(122,162,247,.14);
+    }
+    .ci { font-size: 1.5rem; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--dim);
+      font-size: .82rem;
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--blue); text-decoration: none; }
+
+    /* ── Animations ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .hero-inner > * { animation: fadeUp .6s ease both; }
+    .hero-inner > *:nth-child(1) { animation-delay: .05s; }
+    .hero-inner > *:nth-child(2) { animation-delay: .15s; }
+    .hero-inner > *:nth-child(3) { animation-delay: .25s; }
+    .hero-inner > *:nth-child(4) { animation-delay: .32s; }
+    .hero-inner > *:nth-child(5) { animation-delay: .4s; }
+    .hero-inner > *:nth-child(6) { animation-delay: .5s; }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .about-grid { grid-template-columns: 1fr; }
+      nav ul { display: none; }
+      .tl-head { flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <span class="logo">arielsrv</span>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#career">Career</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- ── Hero ── -->
+<div class="hero">
+  <div class="hero-inner">
+    <div class="avatar">🐹</div>
+    <h1>Ariel Piñeiro</h1>
+    <p class="subtitle">Head of Engineering · Senior IT Expert</p>
+    <p class="tagline">Building scalable backend platforms for 20+ years &nbsp;·&nbsp; Barcelona 🇪🇸</p>
+    <div class="badge-row">
+      <span class="badge blue">🐹 Go Expert</span>
+      <span class="badge purple">☁️ Kubernetes</span>
+      <span class="badge green">🏆 Microsoft MVP</span>
+      <span class="badge orange">📜 Scrum Master</span>
+      <span class="badge cyan">🌍 Open to Remote</span>
+    </div>
+    <div class="cta">
+      <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank" class="btn btn-primary">💼 LinkedIn</a>
+      <a href="https://github.com/arielsrv" target="_blank" class="btn btn-outline">🐙 GitHub</a>
+      <a href="mailto:arielsrv@gmail.com" class="btn btn-outline">✉️ Email</a>
+    </div>
+  </div>
+</div>
+
+<!-- ── About ── -->
+<div class="alt">
+  <div class="section" id="about">
+    <h2>🚀 About me</h2>
+    <p class="sub">From developer to engineering leader — always with hands on the keyboard.</p>
+    <div class="about-grid">
+      <div class="card">
+        <h3>Background</h3>
+        <ul>
+          <li>Developer → Architect → Tech Lead → CTO → Head of Engineering</li>
+          <li>Go expert (~60% of repos), polyglot in Java, C#, Kotlin, Python, Groovy</li>
+          <li>Architecture: microservices, event-driven, REST/gRPC, SQL & NoSQL</li>
+          <li>Full Docker · Kubernetes · CI/CD · Cloud lifecycle</li>
+          <li>Currently leading agentic/AI automation at Remitee</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Looking for</h3>
+        <ul>
+          <li>Head of Engineering · VP Engineering · Director</li>
+          <li>Principal / Staff · Engineering Manager</li>
+          <li>Go-heavy platforms at scale</li>
+          <li>Remote or Hybrid · Based in Barcelona, Spain</li>
+          <li>Spanish (native) · English (professional)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Stats ── -->
+<div class="section">
+  <div class="stats-grid">
+    <div class="stat"><div class="stat-n">20+</div><div class="stat-l">Years of experience</div></div>
+    <div class="stat"><div class="stat-n">130+</div><div class="stat-l">Public repositories</div></div>
+    <div class="stat"><div class="stat-n">65</div><div class="stat-l">Go repositories</div></div>
+    <div class="stat"><div class="stat-n">60</div><div class="stat-l">People led at peak</div></div>
+    <div class="stat"><div class="stat-n">10+</div><div class="stat-l">Years teaching</div></div>
+    <div class="stat"><div class="stat-n">1500+</div><div class="stat-l">Hours coded (WakaTime)</div></div>
+  </div>
+</div>
+
+<!-- ── Skills ── -->
+<div class="alt">
+  <div class="section" id="skills">
+    <h2>🛠 Tech Stack</h2>
+    <p class="sub">Core technologies used in production at scale.</p>
+    <div class="skills-grid">
+      <div class="skill-card">
+        <h3>Languages</h3>
+        <div class="tags">
+          <span class="tag">Go</span><span class="tag">Java</span><span class="tag">C#</span>
+          <span class="tag">Kotlin</span><span class="tag">Python</span><span class="tag">Groovy</span><span class="tag">SQL</span>
+        </div>
+      </div>
+      <div class="skill-card">
+        <h3>Backend &amp; APIs</h3>
+        <div class="tags">
+          <span class="tag">gRPC</span><span class="tag">REST</span><span class="tag">Spring</span>
+          <span class="tag">.NET</span><span class="tag">Kafka</span><span class="tag">RabbitMQ</span>
+        </div>
+      </div>
+      <div class="skill-card">
+        <h3>Data</h3>
+        <div class="tags">
+          <span class="tag">PostgreSQL</span><span class="tag">MySQL</span><span class="tag">Redis</span>
+          <span class="tag">MongoDB</span><span class="tag">Elasticsearch</span><span class="tag">SQL Server</span>
+        </div>
+      </div>
+      <div class="skill-card">
+        <h3>Cloud &amp; DevOps</h3>
+        <div class="tags">
+          <span class="tag">Docker</span><span class="tag">Kubernetes</span><span class="tag">AWS</span>
+          <span class="tag">Terraform</span><span class="tag">GitHub Actions</span><span class="tag">Jenkins</span><span class="tag">Nginx</span>
+        </div>
+      </div>
+      <div class="skill-card">
+        <h3>Observability</h3>
+        <div class="tags">
+          <span class="tag">Grafana</span><span class="tag">Prometheus</span>
+          <span class="tag">New Relic</span><span class="tag">OpenTelemetry</span>
+        </div>
+      </div>
+      <div class="skill-card">
+        <h3>Leadership</h3>
+        <div class="tags">
+          <span class="tag">Scrum</span><span class="tag">Agile</span><span class="tag">TDD</span>
+          <span class="tag">DDD</span><span class="tag">Team Management</span><span class="tag">Hiring</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Career ── -->
+<div class="section" id="career">
+  <h2>💼 Career</h2>
+  <p class="sub">Highlights from 20+ years building and leading engineering teams.</p>
+  <div class="timeline">
+
+    <div class="tl-item">
+      <div class="tl-head">
+        <div>
+          <div class="tl-role">Head of Money Transfer</div>
+          <div class="tl-co">🏦 Remitee</div>
+        </div>
+        <span class="tl-period">Dec 2025 → Present</span>
+      </div>
+      <p class="tl-desc">Own the Money Transfer domain &amp; Integrations, leading Managers and Tech Leads. Driving reengineering of the Money Transfer system and agentic/AI-based automation projects for Operations.</p>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-head">
+        <div>
+          <div class="tl-role">Senior Technical Lead / Head of Backend</div>
+          <div class="tl-co">🐾 Grupo IskayPet (Tiendanimal · Kiwoko · Kivet · Clinicanimal)</div>
+        </div>
+        <span class="tl-period">May 2022 → Dec 2025</span>
+      </div>
+      <p class="tl-desc">Head of Backend for the Digital Hub. Designed cross-cutting reusable modules, observability &amp; telemetry stack, infrastructure components (auth, caching, messaging), DevOps (CI/CD, IaC, containers) and developer tooling.</p>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-head">
+        <div>
+          <div class="tl-role">Sr. IT Expert / Product Development Manager</div>
+          <div class="tl-co">🛒 Mercado Libre</div>
+        </div>
+        <span class="tl-period">Mar 2016 → Nov 2021</span>
+      </div>
+      <p class="tl-desc">Mercado Shops, Loyalty, Recommendations, Deals. Led teams of up to 60 people with 6 direct reports. Stack: Java, Kotlin, Go, Angular, Grails/Groovy, Spark, Elasticsearch, MySQL, K/V stores, Nginx.</p>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-head">
+        <div>
+          <div class="tl-role">CTO / Development Manager / Technical Leader</div>
+          <div class="tl-co">🚗 DE AUTOS SA</div>
+        </div>
+        <span class="tl-period">2012 → 2016</span>
+      </div>
+      <p class="tl-desc">Full technology strategy ownership. RESTful API with OAuth2, scaled team +400%, reduced incidents from 50→5/month, 0.005% error rate (NewRelic), ~20ms avg response time, 80% automation coverage.</p>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-head">
+        <div>
+          <div class="tl-role">Technical Leader / Architect</div>
+          <div class="tl-co">🌐 Globant</div>
+        </div>
+        <span class="tl-period">2010 → 2012</span>
+      </div>
+      <p class="tl-desc">Architect and tech lead for Deloitte, YPF, Coca-Cola and Kimberly Clark. Roadmap, customer communication and internal tech training.</p>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-head">
+        <div>
+          <div class="tl-role">Instructor</div>
+          <div class="tl-co">🎓 EducacionIT</div>
+        </div>
+        <span class="tl-period">2011 → 2022</span>
+      </div>
+      <p class="tl-desc">Taught Microservices, Messaging, TDD, Design Patterns &amp; SOLID, Scrum/Agile, C#, Java, and Functional Programming for 10+ years.</p>
+    </div>
+
+  </div>
+</div>
+
+<!-- ── Contact ── -->
+<div class="alt">
+  <div class="section" id="contact">
+    <h2>🤝 Let's connect</h2>
+    <p class="sub">Scaling a platform? Building an engineering org? Let's talk.</p>
+    <div class="contact-grid">
+      <a href="https://www.linkedin.com/in/arielpineiro/" target="_blank" class="contact-card">
+        <span class="ci">💼</span>
+        <div><strong>LinkedIn</strong><br><small style="color:var(--dim)">arielpineiro</small></div>
+      </a>
+      <a href="mailto:arielsrv@gmail.com" class="contact-card">
+        <span class="ci">✉️</span>
+        <div><strong>Email</strong><br><small style="color:var(--dim)">arielsrv@gmail.com</small></div>
+      </a>
+      <a href="https://github.com/arielsrv" target="_blank" class="contact-card">
+        <span class="ci">🐙</span>
+        <div><strong>GitHub</strong><br><small style="color:var(--dim)">@arielsrv</small></div>
+      </a>
+      <a href="https://about.me/arielpineiro/" target="_blank" class="contact-card">
+        <span class="ci">🌐</span>
+        <div><strong>about.me</strong><br><small style="color:var(--dim)">arielpineiro</small></div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>Made with ❤️ by <a href="https://github.com/arielsrv">Ariel Piñeiro</a> · Barcelona, Spain 🇪🇸</p>
+</footer>
+
+</body>
+</html>

@@ -4,6 +4,8 @@
 
 ### Head of Engineering · Senior IT Expert · 20+ years in tech 🐹
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Go+Expert+%7C+Head+of+Engineering;Backend+Platforms+at+Scale;Microservices+%7C+Kubernetes+%7C+Cloud;20%2B+Years+Building+Things+That+Matter;Open+to+Remote+%F0%9F%8C%8D" alt="Typing SVG" />
+
 *Software Enthusiast · Programming Educator · Senior & Executive Manager — based in **Barcelona, Spain**.*
 
 *I build and lead engineering organizations that ship **scalable, maintainable and high-performance backend platforms**, aligning technology with real business outcomes.*
@@ -190,6 +192,34 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arielsrv&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 
+<br/><br/>
+
+<img src="assets/metrics.svg" alt="Metrics" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="assets/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
+
 </div>
 
 ---
@@ -284,6 +314,9 @@ If you're scaling a platform, building an engineering org, or looking for a **He
 </a>
 <a href="https://github.com/arielsrv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
+</a>
+<a href="https://arielsrv.github.io/arielsrv/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
 </a>
 
 <sub>⭐ If something here was useful, consider starring one of my repos — it really helps!</sub>
