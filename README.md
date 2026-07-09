@@ -205,9 +205,9 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielsrv/arielsrv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielsrv/arielsrv/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/arielsrv/arielsrv/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
