@@ -211,7 +211,7 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -262,11 +262,11 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       65 repos            ███████████████░░░░░░░░░░   58.56 % 
-C#                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Java                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Go                       64 repos            ███████████████░░░░░░░░░░   58.18 % 
+C#                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Java                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
@@ -276,7 +276,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 20:08:01 UTC
+ Last Updated on 11/07/2026 19:48:40 UTC
 <!--END_SECTION:waka-->
 
 ---
