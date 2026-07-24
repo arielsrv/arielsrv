@@ -209,7 +209,7 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 ## ⏱ WakaTime Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -226,21 +226,21 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9790 commits        ████████████░░░░░░░░░░░░░   47.33 % 
-🌆 Daytime                7287 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
-🌃 Evening                3027 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-🌙 Night                  580 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+🌞 Morning                9822 commits        ████████████░░░░░░░░░░░░░   47.21 % 
+🌆 Daytime                7345 commits        █████████░░░░░░░░░░░░░░░░   35.31 % 
+🌃 Evening                3053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌙 Night                  584 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3331 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Tuesday                  3482 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Wednesday                2633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Thursday                 3037 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Friday                   2473 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Saturday                 2911 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   2817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Monday                   3332 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Tuesday                  3490 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Wednesday                2641 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Thursday                 3040 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Friday                   2503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Saturday                 2972 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   2826 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 ```
 
 
@@ -274,7 +274,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:00:42 UTC
+ Last Updated on 24/07/2026 20:01:02 UTC
 <!--END_SECTION:waka-->
 
 ---
