@@ -209,15 +209,13 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
 ## ⏱ WakaTime Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2018%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 710 Contributions in the Year 2026
+> 🏆 712 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -225,46 +223,6 @@ Lecturer in *Algorithms and Data Structures II*; TA in *Algorithms and Data Stru
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10183 commits       ████████████░░░░░░░░░░░░░   46.20 % 
-🌆 Daytime                8110 commits        █████████░░░░░░░░░░░░░░░░   36.80 % 
-🌃 Evening                3159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-🌙 Night                  588 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3598 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Tuesday                  3632 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Wednesday                2852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 3217 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   2525 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Saturday                 3199 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Sunday                   3017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -282,7 +240,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arielsrv/arielsrv/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:14:33 UTC
+ Last Updated on 07/08/2026 00:29:40 UTC
 <!--END_SECTION:waka-->
 
 ---
